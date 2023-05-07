@@ -1,0 +1,17 @@
+.dashboard-container {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+  }
+  
+  .login-container h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  

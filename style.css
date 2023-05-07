@@ -1,0 +1,73 @@
+
+.background-image {
+	background-image: url(https://wallpapercave.com/wp/wp4697737.jpg);
+	background-size: cover;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0.5;
+	z-index: -1;
+}.login-container {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+  }
+  
+  .login-container h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+  }
+  
+  .dashboard-container {
+    font-size: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  #user1 {
+  background-image: url(https://image.cnbcfm.com/api/v1/image/101022558-Jean%20Bugatti.jpg?v=1532564633&w=1920&h=1080);
+	background-size: cover;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0.5;
+	z-index: -1;
+  }
+
+  #user2 {
+    background-image: url(https://s3.amazonaws.com/images.gearjunkie.com/uploads/2022/06/image.media6_.responsive_zoom_image_16_9.1655197351962.jpg);
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: -1;
+    }
